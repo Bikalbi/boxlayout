@@ -1,0 +1,52 @@
+.container{
+    border: 3px solid red;
+    width: 30%;
+    padding: 8px;
+    margin: 2% 30%;
+   
+}
+*{
+    box-sizing: border-box;
+    
+}
+
+.box1{
+    border: 3px solid red;
+    width:98%;
+    padding-left:10px;
+   
+}
+
+.para{
+    border: 3px solid red;
+    width:98%;
+    margin-top: 10px;
+    padding-left:10px;
+    padding-top: 0px;
+   
+}
+
+.list{
+    border: 3px solid red;
+    width:98%;
+    margin-top: 10px;
+    position: relative;
+    
+   
+   
+}
+.ullist{
+   
+   margin-left:-32px;
+}
+
+.boxes{
+    border: 3px solid red;
+    padding-left:10px;
+    
+}
+
+.but{
+    border: 2px solid red;
+    padding: 3px;
+}
